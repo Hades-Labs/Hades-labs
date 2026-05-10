@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Sampson Brave 👋
 
-<!--
-**Hades-Labs/Hades-labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Software Engineer | Full Stack Developer in Training  
+💻 Passionate about building web applications and real-world solutions  
+🔐 Exploring Cybersecurity & Ethical Hacking  
+🤖 Interested in AI and modern software systems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+- 🎓 Software Engineering Student
+- 🌍 Based in Accra, Ghana
+- 🌱 Currently learning Full Stack Development
+- 🔍 Focused on HTML, CSS, JavaScript & Backend basics
+- 🛡️ Exploring Cybersecurity & Ethical Hacking fundamentals
+
+---
+
+## 🛠️ Tech Stack (Learning)
+
+- HTML5
+- CSS3
+- JavaScript (beginner)
+- Git & GitHub
+- Responsive Web Design
+
+---
+
+## 🎯 Current Goals
+
+- Build strong Full Stack Development skills
+- Create real-world web projects
+- Learn backend development (Node.js in future)
+- Strengthen cybersecurity knowledge
+- Improve problem-solving skills
+
+---
+
+## 📂 Projects
+
+Check out my projects here:
+👉 https://github.com/Hades-labs
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/Hades-labs
+- LinkedIn: https://www.linkedin.com/in/sampson-brave-979b3a408/
+- Email: sampsonbrave.dev@gmail.com
+
+---
+
+⭐ Always learning, always building.
