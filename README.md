@@ -40,7 +40,8 @@
 ## 📂 Projects
 
 Check out my projects here:
-👉 https://github.com/Hades-labs
+👉 https://hades-labs.github.io/My-portfolio/
+
 
 ---
 
